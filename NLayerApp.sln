@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayerCore", "NLayerCore\NLayerCore.csproj", "{91B645A9-183F-49E7-8B76-73A97DE72E46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayerRepository", "NLayerRepository\NLayerRepository.csproj", "{2F230062-B5E3-42F0-913D-5A4D3F10C3C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayerServices", "NLayerServices\NLayerServices.csproj", "{4C3B168D-0923-4224-BC29-DF714324D617}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayer.API", "NLayer.API\NLayer.API.csproj", "{73BB68B8-BD1E-4BB2-AAA8-D009DADB5A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayer.Web", "NLayer.Web\NLayer.Web.csproj", "{2938057E-F77C-4F52-B0F9-BA4D941D7B23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayerCaching", "NLayerCaching\NLayerCaching.csproj", "{462F762C-AB01-44F3-9B85-B571525460FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91B645A9-183F-49E7-8B76-73A97DE72E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B645A9-183F-49E7-8B76-73A97DE72E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B645A9-183F-49E7-8B76-73A97DE72E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B645A9-183F-49E7-8B76-73A97DE72E46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F230062-B5E3-42F0-913D-5A4D3F10C3C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F230062-B5E3-42F0-913D-5A4D3F10C3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F230062-B5E3-42F0-913D-5A4D3F10C3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F230062-B5E3-42F0-913D-5A4D3F10C3C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C3B168D-0923-4224-BC29-DF714324D617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3B168D-0923-4224-BC29-DF714324D617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C3B168D-0923-4224-BC29-DF714324D617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C3B168D-0923-4224-BC29-DF714324D617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BB68B8-BD1E-4BB2-AAA8-D009DADB5A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BB68B8-BD1E-4BB2-AAA8-D009DADB5A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BB68B8-BD1E-4BB2-AAA8-D009DADB5A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BB68B8-BD1E-4BB2-AAA8-D009DADB5A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2938057E-F77C-4F52-B0F9-BA4D941D7B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2938057E-F77C-4F52-B0F9-BA4D941D7B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2938057E-F77C-4F52-B0F9-BA4D941D7B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2938057E-F77C-4F52-B0F9-BA4D941D7B23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462F762C-AB01-44F3-9B85-B571525460FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462F762C-AB01-44F3-9B85-B571525460FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462F762C-AB01-44F3-9B85-B571525460FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462F762C-AB01-44F3-9B85-B571525460FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A551435B-2929-46C5-86E8-8AE6A4590BBF}
+	EndGlobalSection
+EndGlobal
